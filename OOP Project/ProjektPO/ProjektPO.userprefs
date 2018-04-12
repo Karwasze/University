@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E1479B3A-A801-4186-839B-62554E1AE02D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjektPO/Program.cs">
+    <Files>
+      <File FileName="ProjektPO/Program.cs" Line="281" Column="38" />
+      <File FileName="ProjektPO/Labirynt.cs" Line="13" Column="10" />
+      <File FileName="ProjektPO/Pole.cs" Line="19" Column="26" />
+      <File FileName="ProjektPO/Klucz.cs" Line="7" Column="26" />
+      <File FileName="ProjektPO/Gracz.cs" Line="17" Column="26" />
+      <File FileName="ProjektPO/Wrog.cs" Line="7" Column="29" />
+      <File FileName="ProjektPO/Przedmiot.cs" Line="8" Column="11" />
+      <File FileName="ProjektPO/Skarb.cs" Line="18" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProjektPO PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

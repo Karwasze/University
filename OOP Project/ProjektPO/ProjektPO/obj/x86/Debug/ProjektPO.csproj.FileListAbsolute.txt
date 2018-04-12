@@ -1,0 +1,5 @@
+/Users/karol/Projects/ProjektPO/ProjektPO/bin/Debug/ProjektPO.exe
+/Users/karol/Projects/ProjektPO/ProjektPO/bin/Debug/ProjektPO.pdb
+/Users/karol/Projects/ProjektPO/ProjektPO/obj/x86/Debug/ProjektPO.csproj.CoreCompileInputs.cache
+/Users/karol/Projects/ProjektPO/ProjektPO/obj/x86/Debug/ProjektPO.exe
+/Users/karol/Projects/ProjektPO/ProjektPO/obj/x86/Debug/ProjektPO.pdb

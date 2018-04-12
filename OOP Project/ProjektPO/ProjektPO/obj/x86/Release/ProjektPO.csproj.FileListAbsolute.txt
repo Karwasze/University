@@ -1,0 +1,3 @@
+/Users/karol/Projects/ProjektPO/ProjektPO/bin/Release/ProjektPO.exe
+/Users/karol/Projects/ProjektPO/ProjektPO/obj/x86/Release/ProjektPO.csproj.CoreCompileInputs.cache
+/Users/karol/Projects/ProjektPO/ProjektPO/obj/x86/Release/ProjektPO.exe
